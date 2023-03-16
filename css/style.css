@@ -48,6 +48,14 @@ header {
 }
 
 
+.hayrullox{
+    border-radius: 40%;
+   
+   width: 350px;
+   height: 350px;
+}
+
+
 
 .personal_text {
     font-family: 'Heebo';
@@ -244,6 +252,10 @@ footer {
     line-height: 21px;
     color: #21243D;
     margin-bottom: 50px;
+}
+
+.hayrullox{
+ border-radius: 0%;    
 }
 
 
