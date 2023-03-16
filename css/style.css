@@ -44,7 +44,7 @@ li {
 /* ------------------------Header start ---------------- */
 
 header {
-    margin-top: 140px;
+    margin-top: 100px;
 }
 
 
@@ -240,4 +240,46 @@ footer {
     line-height: 21px;
     color: #21243D;
     margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:575px) {
+    header{
+        margin-top: 50px;
+        text-align: center;
+    }
+    header img{
+        padding-top: 50px;
+    }
+    .main_list{
+       
+        flex-wrap: wrap;
+    }
+    .fix{
+        gap: 30px;
+    }
+    .reserv{
+        font-size: 21px;
+    }
+    .design{
+        padding-left: 70px;
+    }
+    .sabr{
+        padding-left: 50px;
+    }
+    .sabr h2{
+        font-size: 25px;
+    }
+    .work{
+        text-align: center;
+    }
 }
