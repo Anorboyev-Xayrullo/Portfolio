@@ -242,6 +242,10 @@ footer {
     margin-bottom: 50px;
 }
 
+.person_info:hover{
+    background-color:  aqua;
+}
+
 
 
 
@@ -258,7 +262,7 @@ footer {
         text-align: center;
     }
     header img{
-        padding-top: 50px;
+        padding-top: 70px;
     }
     .main_list{
        
@@ -271,15 +275,18 @@ footer {
         font-size: 21px;
     }
     .design{
-        padding-left: 70px;
+        padding-left: 50px;
     }
     .sabr{
-        padding-left: 50px;
+        padding-left: 30px;
     }
     .sabr h2{
         font-size: 25px;
     }
+    .sabr p{
+        font-size: 20px;
+    }
     .work{
-        text-align: center;
+        text-align: center;;
     }
 }
