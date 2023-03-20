@@ -260,6 +260,9 @@ footer {
 
 
 
+.traf{
+    width: 100%;
+}
 
 
 
@@ -276,12 +279,11 @@ footer {
         text-align: center;
     }
 
-    header img {
-        padding-top: 70px;
-    }
+   .traf{
+    margin-top: 20px;
+   }
 
     .main_list {
-
         flex-wrap: wrap;
     }
 
