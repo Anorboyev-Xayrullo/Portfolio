@@ -299,7 +299,8 @@ footer {
     }
 
     .traf {
-        margin-top: 20px;
+        margin-top: 30px;
+        border-radius: 50px;
     }
 
     .main_list {
